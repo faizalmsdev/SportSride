@@ -1,8 +1,8 @@
-# React + Vite
+#Eccomerce page 
+<h2>This is a sample Eccomerce Website designed for my retail store customer the text and logos are been changed once get deployed </h2>
+<h3>Can be build by using </h3>
+<li>React + vite</li>
+<li>Tailwind CSS</li>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h3>Preview</h3>
+<img src="./src/assets/images/preview.png" />
